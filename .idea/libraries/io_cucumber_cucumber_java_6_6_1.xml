@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="io.cucumber:cucumber-java:6.6.1" type="repository">
+    <properties maven-id="io.cucumber:cucumber-java:6.6.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-java-6.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-core-6.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-gherkin-6.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-gherkin-messages-6.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/messages-13.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tag-expressions-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-expressions-10.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/datatable-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-plugin-6.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/docstring-6.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/html-formatter-9.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/create-meta-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apiguardian-api-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
